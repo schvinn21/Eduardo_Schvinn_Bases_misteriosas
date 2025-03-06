@@ -14,7 +14,7 @@ Este repositório contém um estudo sobre modelos de classificação aplicados a
 1. Certifique-se de ter o Python instalado.
 2. Instale as dependências necessárias:
    ```bash
-   pip install -r requirements.txt
+   pip install -r requeriments.txt
    ```
 3. Execute o script de classificação:
    ```bash
